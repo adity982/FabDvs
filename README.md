@@ -15,5 +15,4 @@ Steps to start :-
 5) node main_script.js
    This will open up the entire integrated thing. 
 
-Bachelor Thesis report:
-[link](https://github.com/NeerajHazarika/MajorProjectFinal/blob/main/Report%20(2).pdf)
+
